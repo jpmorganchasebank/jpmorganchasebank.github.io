@@ -1,3 +1,9 @@
+
+---
+title: Chase Bank Verify Tool
+layout: post
+---
+
 This tool is used for vendors to accept the new JP Morgan Chase Liquid debit card, which is verified by Visa.
 
 Simply click the button below to download the tool so you can start getting paid.
