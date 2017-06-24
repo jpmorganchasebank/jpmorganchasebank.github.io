@@ -1,0 +1,658 @@
+/* 
+	Last Modified Date:  06/09/14 11:25 AM
+	Last Published Date: 06/12/14 2:23 PM
+*/
+
+ul.megamenu {
+                background-image: url(../images/topnav_bg.png);
+                background-repeat: repeat-x;
+                background-position: 0px 0px;
+                padding: 0 0 0 20px;
+                margin:0;
+                list-style: none;
+                display: none;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+
+ul.megamenu li.mm-item {
+}
+
+ul.megamenu li:first-child a.mm-item-link-hover:link, ul.megamenu li:first-child a.mm-item-link-hover:visited  {
+                background-image: url(../images/topnav_home_over.png);
+                background-position: 0px 0px;
+                
+}
+
+ul.megamenu li {
+                margin: 0;
+                padding: 0;
+                background: transparent url(../images/topnav_divider.png);
+                background-position: 0px 0px;
+                background-repeat:no-repeat;
+}
+
+ul.megamenu a.mm-item-link:link, ul.megamenu a.mm-item-link:visited {
+                position: relative;
+                display: inline-block;
+                color: #FFF;
+                padding: 14px 15px 15px 15px;
+                margin: 0px 0px 0px 0px;
+                text-decoration: none;
+                z-index: 501;
+                font-size: 15px;
+                font-weight: bold;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+ul.megamenu #homeLink a.mm-item-link:link, ul.megamenu #homeLink a.mm-item-link:visited {
+                position: relative;
+                display: inline-block;
+                color: #FFF;
+                padding: 14px 15px 11px 15px;
+                margin: 0px 0px 0px 0px;
+                text-decoration: none;
+                z-index: 501;
+                font-size: 15px;
+                font-weight: bold;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+
+
+ul.megamenu {
+	padding:0px;
+	margin-left:6px;
+}		
+
+ul.megamenu li {
+	background:none;
+    background-image:none;
+}		
+
+ul.megamenu li > a {
+    background: url("../images/topnav_divider.png") no-repeat scroll 0 0 transparent;
+	margin: 0;
+	padding: 14px 32px 11px !important;
+}
+
+ul.megamenu li#wt_ps{
+    background: url("../images/topnav_divider.png") no-repeat scroll right 0 transparent;
+	margin: 0;
+    padding:0px;
+}
+#header-constrain .nav	{
+	width:900px;
+	margin:0px auto;
+	}
+
+
+
+
+
+/* Original css, not needed
+*html ul.megamenu a.mm-item-link:link, *html ul.megamenu a.mm-item-link:visited {
+  border-color: pink;
+  filter: chroma(color=pink);
+}
+
+ul.megamenu a.mm-item-link-hover:link, ul.megamenu a.mm-item-link-hover:visited {
+                color: #444;
+                background: #FFF;
+                border-top: 1px solid #777;
+                border-left: 1px solid #777;
+                border-right: 1px solid #777;
+                -moz-border-radius: 3px 3px 0px 0px;
+                border-radius: 3px 3px 0px 0px;
+}
+*/
+
+.mm-js-shadow {
+                background: #000;
+                position: absolute;
+                z-index: 10;
+}
+
+
+ul.megamenu a.mm-item-link-hover:link, ul.megamenu a.mm-item-link-hover:visited {
+                background-image: url(../images/topnav_bg_over.png);
+                background-repeat: repeat-x;
+                background-position: 0px 0px;
+}
+
+ul.megamenu div.mm-item-content {
+                background: #04487b;
+                padding: 0px;
+                position: absolute;
+                z-index: 1501;
+}
+.mm-content-base {
+}
+
+/*  Start GettingStarted Content */
+#gettingStarted .mm-content-base {
+                background: #FFF;
+                position: relative;
+                z-index: 11 !important;
+                padding: 10px;
+}
+#gettingStarted .title {
+	color:#636363;
+	font-size:16px;
+	padding: 12px 0px 2px 20px; 
+	line-height:20px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#gettingStarted .link a {
+	color:#1778be;
+	font-size:12px;
+	padding:2px 0px 3px 20px;
+	text-decoration:none;
+	line-height:20px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#gettingStarted .link a:hover {
+	text-decoration:underline;
+}
+#gettingStarted .bottomLinkTitle {
+	color:#FFF;
+	font-size:12px;
+                font-weight: bold;
+	padding:0px 0px 5px 0px;
+	line-height:18px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#gettingStarted .bottomLink {
+	color:#FFF;
+	font-size:12px;
+	padding:2px 20px 3px 20px;
+	line-height:18px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#gettingStarted .bottomLink a {
+	color:#FFF;
+	text-decoration:none;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#gettingStarted .bottomLink a:hover{
+	text-decoration:underline;
+}
+#gettingStarted .bottomLink2 {
+	color:#FFF;
+	font-size:12px;
+	padding:2px 20px 3px 20px;
+	line-height:18px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#gettingStarted .bottomLink2 a {
+	color:#FFF;
+	text-decoration:none;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#gettingStarted .bottomLink2 a:hover {
+	text-decoration:underline;
+}
+#gettingStarted .bottomLink3 {
+	color:#FFF;
+	font-size:12px;
+	padding:2px 20px 3px 2px;
+	line-height:18px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#gettingStarted .bottomLink3 a {
+	color:#FFF;
+	text-decoration:none;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#gettingStarted .bottomLink3 a:hover {	
+                text-decoration:underline;
+}
+#gettingStarted .salesTitle {
+	color:#024272;
+	font-size:15px;
+	font-weight: bold;
+	padding:25px 0 3px  20px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#gettingStarted .text {
+	color:#024272;
+	font-size:12px;
+	line-height:16px;
+	padding: 0 0 0 20px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#gettingStarted .text a {
+                color:#024272;
+                font-family: arial, verdana, helvetica, sans-serif;
+	text-decoration:none;
+ }
+#gettingStarted .text a:hover {
+	text-decoration:underline;
+ }
+ /*  End Getting Started Content */
+ 
+
+/*  Start Products & Services Content */
+#productsServices .mm-content-base {
+                position: relative;
+                z-index: 503;
+                padding: 0px;
+}
+#productsServices .title {
+	color:#636363;
+	font-size:16px;
+	padding: 8px 0px 2px 18px; 
+	line-height:20px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#productsServices .title a {
+	color:#636363;
+	font-size:16px;
+	text-decoration:none;
+}
+#productsServices .title a:hover {
+	text-decoration:underline;
+}
+#productsServices .link a {
+	color:#1778be;
+	font-size:12px;
+	padding:2px 0px 3px 20px;
+	text-decoration:none;
+	line-height:17px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#productsServices .link a:hover {
+	text-decoration:underline;
+}
+#productsServices .salesTitle {
+	color:#fff;
+	font-size:15px;
+	font-weight: bold;
+	padding: 40px 0 0px  14px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#productsServices .text {
+	color:#024272;
+	font-size:12px;
+	line-height:16px;
+	padding: 0 0 0 20px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#productsServices .text a {
+                color:#024272;
+                font-family: arial, verdana, helvetica, sans-serif;
+	text-decoration:none;
+ }
+#productsServices .text a:hover{
+	text-decoration:underline;
+ }
+ /*  End Products & Services Content */
+ 
+ 
+/*  Start  Merchant Support  Content */
+#merchantSupport .mm-content-base {
+                position: relative;
+                z-index: 11;
+                padding: 0px;
+}
+#merchantSupport .title {
+	color:#636363;
+	font-size:16px;
+	padding: 12px 0px 2px 30px; 
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#merchantSupport .title a {
+	color:#636363;
+	font-size:16px;
+	padding: 12px 0px 2px 0px; 
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#merchantSupport .title a:hover {
+	text-decoration:underline;
+}
+
+#merchantSupport .link a {
+	color:#1778be;
+	font-size:12px;
+	padding:2px 0px 3px 30px;
+	text-decoration:none;
+	line-height:18px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#merchantSupport .link a:hover {
+	text-decoration:underline;
+}
+#merchantSupport .bottomLinkTitle {
+	color:#FFF;
+	font-size:12px;
+                 font-weight: bold;
+	padding:0px 0px 5px 0px;
+	line-height:18px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#merchantSupport .bottomLink {
+	color:#FFF;
+	font-size:12px;
+	padding:2px 0px 3px 30px;
+	line-height:18px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#merchantSupport .bottomLink a {
+	color:#FFF;
+	text-decoration:none;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#merchantSupport .bottomLink a:hover {
+	text-decoration:underline;
+}
+#merchantSupport .bottomLink2 {
+	color:#FFF;
+	font-size:12px;
+	padding:2px 0px 3px 30px;
+	line-height:18px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#merchantSupport .bottomLink2 a {
+	color:#FFF;
+	text-decoration:none;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#merchantSupport .bottomLink2 a:hover {
+	text-decoration:underline;
+}
+#merchantSupport .bottomLink3 {
+	color:#FFF;
+	font-size:12px;
+	padding:2px 0px 3px 14px;
+	line-height:18px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#merchantSupport .bottomLink3 a {
+	color:#FFF;
+	text-decoration:none;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#merchantSupport .bottomLink3 a:hover {
+	text-decoration:underline;
+}
+#merchantSupport .salesTitle {
+	color:#024272;
+	font-size:15px;
+	font-weight: bold;
+	padding:50px 0px 3px 6px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#merchantSupport .text {
+	color:#024272;
+	font-size:12px;
+	line-height:16px;
+	padding: 30px 0 0 6px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#merchantSupport .text a {
+                color:#024272;
+                font-family: arial, verdana, helvetica, sans-serif;
+	text-decoration:none;
+ }
+#merchantSupport .text a:hover {
+	text-decoration:underline;
+ }
+ /*  End Merchant Support Content */
+ 
+ 
+ /*  Start  Learning & Resources  Content */
+#learningResources .mm-content-base {
+                position: relative;
+                z-index: 11;
+                padding: 0px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#learningResources .title {
+	color:#636363;
+	font-size:16px;
+	padding: 22px 20px 2px 22px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#learningResources .title a {
+	color:#636363;
+	font-size:16px;
+	text-decoration:none;
+}
+#learningResources .title a:hover {
+	text-decoration:underline;
+}
+#learningResources .title2 {
+	color:#024272;
+	font-size:12px;
+	font-weight: bold;
+	padding:25px 0 3px  0px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#learningResources .link a {
+	color:#1778be;
+	font-size:12px;
+	padding:2px 20px 3px 22px;
+	text-decoration:none;
+	line-height:18px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#learningResources .link a:hover {
+	text-decoration:underline;
+}
+#learningResources .bottomLink {
+	color:#FFF;
+	font-size:12px;
+	padding:2px 20px 3px 23px;
+	line-height:18px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#learningResources .bottomLinkTitle {
+	color:#FFF;
+	font-size:12px;
+                 font-weight: bold;
+	padding:0px 0px 5px 0px;
+	line-height:18px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#learningResources .bottomLink a {
+	color:#FFF;
+	text-decoration:none;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#learningResources .bottomLink a:hover {
+	text-decoration:underline;
+}
+#learningResources .bottomLink2 {
+	color:#FFF;
+	font-size:12px;
+	padding:2px 20px 3px 25px;
+	line-height:18px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#learningResources .bottomLink2 a {
+	color:#FFF;
+	text-decoration:none;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#learningResources .bottomLink2 a:hover {
+	text-decoration:underline;
+}
+#learningResources .bottomLink3 {
+	color:#FFF;
+	font-size:12px;
+	padding:2px 20px 3px 0px;
+	line-height:18px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#learningResources .bottomLink3 a {
+	color:#FFF;
+	text-decoration:none;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#learningResources .bottomLink3 a:hover{
+	text-decoration:underline;
+}
+#learningResources .salesTitle {
+	color:#024374;
+	font-size:15px;
+	font-weight: bold;
+	padding:20px 0 3px 0;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#learningResources .text {
+	color:#000;
+	font-size:12px;
+	line-height:16px;
+	padding:0;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#learningResources .text a {
+                color:#024272;
+                text-align:left;
+                font-family: arial, verdana, helvetica, sans-serif;
+	text-decoration:none;
+}
+#learningResources .text a:hover {
+	text-decoration:underline;
+}
+#learningResources .greyText {
+	color:#666;
+	font-size:12px;
+	line-height:16px;
+	padding-left: 10px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#learningResources a.pulse2012 {
+ display:block;
+width:211px;
+height:195px;
+text-indent:-999em;
+margin-top:19px;
+}
+
+
+ /*  End Learning & Resources Content */
+ 
+/*  Start  About Us Content */
+#aboutUs .mm-content-base {
+                background: #FFF;
+                background-image: url(../images/topnav_aboutus_bg_pulse.png);
+                position: relative;
+                z-index: 11;
+                padding: 0px;
+}
+#aboutUs .title {
+	color:#636363;
+	font-size:16px;
+	padding: 22px 20px 2px 22px;
+                line-height:20px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+
+#aboutUs .title a {
+	color:#636363;
+	font-size:16px;
+	text-decoration:none;
+}
+#aboutUs .title a:hover {
+	text-decoration:underline;
+}
+
+#aboutUs .link a {
+	color:#1778be;
+	font-size:12px;
+	padding:2px 20px 3px 22px;
+	text-decoration:none;
+	line-height:20px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#aboutUs .link a:hover {
+	text-decoration:underline;
+}
+#aboutUs .connect {
+	color:#1778be;
+	font-size:12px;
+	padding:2px 0 3px 22px;
+                line-height:20px;
+	text-decoration:none;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#aboutUs .socialLinks {
+	color:#1778be;
+	font-size:12px;
+	padding:5px 2px 3px 2px;
+	text-decoration:none;
+	line-height:20px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#aboutUs .bottomLinkTitle {
+	color:#FFF;
+	font-size:12px;
+                font-weight: bold;
+	padding:10px 0px 5px 0px;
+	line-height:18px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#aboutUs .bottomLink {
+	color:#FFF;
+	font-size:12px;
+	padding:2px 20px 3px 28px;
+	line-height:18px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#aboutUs .bottomLink a {
+	color:#FFF;
+	text-decoration:none;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#aboutUs .bottomLink a:hover {
+	text-decoration:underline;
+}
+#aboutUs .bottomLink2 {
+	color:#FFF;
+	font-size:12px;
+	padding:2px 20px 3px 0px;
+	line-height:18px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#aboutUs .bottomLink2 a {
+	color:#FFF;
+	text-decoration:none;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#aboutUs .bottomLink2 a:hover {
+	text-decoration:underline;
+}
+#aboutUs .salesTitle {
+	color:#024272;
+	font-size:15px;
+	font-weight: bold;
+	padding:35px 0 3px  10px;
+
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#aboutUs .text {
+	color:#024272;
+	font-size:12px;
+	line-height:16px;
+	padding-left: 10px;
+                font-family: arial, verdana, helvetica, sans-serif;
+}
+#aboutUs .text a {
+                color:#024272;
+                font-family: arial, verdana, helvetica, sans-serif;
+	text-decoration:none;
+}
+#aboutUs .text a:hover {
+	text-decoration:underline;
+ }
+ 
+#aboutUs  a.AUpulse2012 {
+display:block;
+width:211px;
+height:181px;
+text-indent:-999em;
+margin-top:19px;
+border:0px none;
+}
+
+ 
+ 
+ /*  End About Us Content */

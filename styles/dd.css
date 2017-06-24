@@ -1,0 +1,90 @@
+/* */
+.countryDropdown {
+	float:left;
+	padding-top:1px;
+	z-index: 502;
+	width:120px;
+}
+.dd {
+	display:inline-block !important;
+	text-align:left;
+	background-color:#fff;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	float:left;
+}
+.dd .ddTitle {
+	background:url(../images/dd_bg.gif);
+	background-color:#003052;
+	border:none;
+	padding:4px 0px 0 0px;
+	text-indent:0;
+	cursor:pointer;
+	overflow:hidden;
+	height:18px;
+	color:#aad6f6;
+}
+.dd .ddTitle span.arrow {
+	background:url(../images/dd_arrow.gif) no-repeat 0 0; 
+	float:right; 
+	display:inline-block;
+	width:16px; 
+	height:16px; 
+	cursor:pointer;
+	position:relative;
+	right:7px 
+}
+.dd .ddTitle span.ddTitleText {
+	text-indent:1px; 
+	overflow:hidden; 
+	line-height:16px;
+}
+.dd .ddTitle span.ddTitleText img {
+	text-align:left; 
+	padding:0 2px 0 0;
+}
+.dd .ddTitle img.selected {
+	padding:0 3px 0 0;
+	vertical-align:top;
+}
+.dd .ddChild {
+	position:absolute;
+	border:none;
+	border-top:none;
+	display:none;
+	margin:0;
+	width:120px;
+	overflow:auto;
+	overflow-x:hidden !important;
+	background-color:#ffffff;
+}
+.dd .ddChild .opta a, .dd .ddChild .opta a:visited {
+	padding-left:10px
+}
+.dd .ddChild a {
+	display:block;
+	padding:2px 0px 5px 0px;
+	text-decoration:none;
+	color:#1778be;
+	overflow:hidden;
+	white-space:nowrap;
+	cursor:pointer;
+	border-bottom:1px solid #024170;
+}
+.dd .ddChild a:hover {
+	background-color:#cbe9fe;
+}
+.dd .ddChild a img {
+	border:0;
+	padding:0 2px 0 0;
+	vertical-align:middle;
+	text-align:right;
+}
+.dd .ddChild a.selected {
+	background-color:#cbe9fe;
+	
+}
+.hidden {display:none;}
+
+.dd .borderTop{border-top:none 9 !important;}
+.dd .noBorderTop{border-top:none 0  !important}

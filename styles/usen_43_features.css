@@ -1,0 +1,1355 @@
+/* 
+	Last Modified Date:  06/11/14 10:28 AM
+	Last Published Date: 06/12/14 2:23 PM
+*/
+
+#partnership .feature_image #perspective1 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature1_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#partnership .feature_image #perspective2 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature2_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#partnership .feature_image #perspective3 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature3_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#partnership .feature_image #perspective4 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature4_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#partnership .feature_nav {
+	position: relative; top: -7px; width: 960px;
+}
+#partnership .feature_nav img {
+	float: left; text-align: left !important;
+}
+#partnership .feature_nav ul {
+	list-style: none; margin: 0; padding: 0; text-align: left;
+}
+	#partnership .feature_nav ul li { display: block; float: left; list-style-type: none; }
+
+#partnership .feature_nav .thumbs #feature1nav .navImage {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature1_nav.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 161px;
+}
+	#partnership .feature_nav .thumbs #feature1nav .hover {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature1_nav_h.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 161px;
+	}
+	#partnership .feature_nav .thumbs #feature1nav .navImageOn {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature1_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 161px;
+	}
+
+#partnership .feature_nav .thumbs #feature2nav .navImage {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature2_nav.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 239px;
+}
+	#partnership .feature_nav .thumbs #feature2nav .hover {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature2_nav_h.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 239px;
+	}
+	#partnership .feature_nav .thumbs #feature2nav .navImageOn {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature2_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 239px;
+	}
+
+#partnership .feature_nav .thumbs #feature3nav .navImage {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature3_nav.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 250px;
+}
+	#partnership .feature_nav .thumbs #feature3nav .hover {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature3_nav_h.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 250px;
+	}
+	#partnership .feature_nav .thumbs #feature3nav .navImageOn {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature3_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 250px;
+	}
+
+#partnership .feature_nav .thumbs #feature4nav .navImage {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature4_nav.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 310px;
+}
+#partnership .feature_nav .thumbs #feature4nav .hover {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature4_nav_h.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 310px;
+}
+#partnership .feature_nav .thumbs #feature4nav .navImageOn {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature4_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 310px;
+}
+
+/* begin feature CTA */
+#partnership .feature_image .cta {
+	float: left;
+	height: 280px;
+	left: 64px;
+	position: relative;
+	text-align: left;
+	top: 44px;
+	width: 440px;
+}
+
+#partnership .cta .subtitle {
+	font-size: 16px;
+	margin-bottom: 15px;
+	margin-top:15px;
+}
+
+#partnership .cta .copy {
+	font-size: 14px;
+	margin-bottom: 15px;
+}
+	
+#partnership .cta ul {
+	list-style-type: none !important;
+	text-align: left;
+	color: #333;
+	padding: 0;
+	margin: 0px;
+	margin-bottom: 15px;
+	margin-left: 40px;
+	margin-top: 0px;	
+}
+
+#partnership .cta ul li {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/icon_orange_circle_feature.gif);
+	background-repeat: no-repeat;
+	font: 14px Arial, Helvetica, sans-serif !important;
+}
+
+#partnership .cta p {
+	color: #333;
+	font: 14px Arial, Helvetica, sans-serif;
+}
+
+#partnership .cta p a {
+	font: 14px Arial, Helvetica, sans-serif !important;
+}
+	#partnership .cta p a:hover {
+		font: 14px Arial, Helvetica, sans-serif !important;
+                                text-decoration: underline;
+	}
+	#partnership .cta p a:visited {
+		font: 14px Arial, Helvetica, sans-serif !important;
+	}
+
+#partnership .cta ul li {
+	background-position: 0 .5em;
+	padding-left: 1em;
+	margin-bottom: 5px;
+}
+
+#partnership .cta ul li a {
+	color: #1778BE;
+	font: 14px Arial, Helvetica, sans-serif !important;
+	text-decoration: none;
+}
+
+	#partnership .cta ul li a:hover {
+		color: #1778BE;
+		font: 14px Arial, Helvetica, sans-serif !important;
+		text-decoration: underline;
+	}
+	#partnership .cta ul li a:visited {
+		color: #1778BE;
+		font: 14px Arial, Helvetica, sans-serif !important;
+		text-decoration: none;
+	}
+
+#products .feature_image #perspective1 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature1_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#products .feature_image #perspective2 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature2_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#products .feature_image #perspective3 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature3_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#products .feature_image #perspective4 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature4_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#products .feature_image #perspective5 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature5_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#products .feature_image #perspective6 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature6_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#products .feature_image #perspective7 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature7_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#products .feature_nav {
+	position: relative; top: -7px; width: 960px;
+}
+#products .feature_nav img {
+	float: left; text-align: left !important;
+}
+#products .feature_nav ul {
+	list-style: none; margin: 0; padding: 0; text-align: left;
+}
+	#products .feature_nav ul li { display: block; float: left; list-style-type: none; }
+
+#products .feature_nav .thumbs #feature1nav .navImage {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature1_nav.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 143px;
+}
+	#products .feature_nav .thumbs #feature1nav .hover {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature1_nav_h.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 143px;
+	}
+	#products .feature_nav .thumbs #feature1nav .navImageOn {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature1_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 143px;
+	}
+
+#products .feature_nav .thumbs #feature2nav .navImage {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature2_nav.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 151px;
+}
+	#products .feature_nav .thumbs #feature2nav .hover {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature2_nav_h.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 151px;
+	}
+	#products .feature_nav .thumbs #feature2nav .navImageOn {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature2_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 151px;
+	}
+
+#products .feature_nav .thumbs #feature3nav .navImage {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature3_nav.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 149px;
+}
+	#products .feature_nav .thumbs #feature3nav .hover {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature3_nav_h.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 149px;
+	}
+	#products .feature_nav .thumbs #feature3nav .navImageOn {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature3_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 149px;
+	}
+
+#products .feature_nav .thumbs #feature4nav .navImage {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature4_nav.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 105px;
+}
+	#products .feature_nav .thumbs #feature4nav .hover {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature4_nav_h.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 105px;
+	}
+	#products .feature_nav .thumbs #feature4nav .navImageOn {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature4_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 105px;
+	}
+
+#products .feature_nav .thumbs #feature5nav .navImage {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature5_nav.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 152px;
+}
+	#products .feature_nav .thumbs #feature5nav .hover {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature5_nav_h.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 152px;
+	}
+	#products .feature_nav .thumbs #feature5nav .navImageOn {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature5_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 152px;
+	}
+
+#products .feature_nav .thumbs #feature6nav .navImage {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature6_nav.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 107px;
+}
+	#products .feature_nav .thumbs #feature6nav .hover {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature6_nav_h.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 107px;
+	}
+	#products .feature_nav .thumbs #feature6nav .navImageOn {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature6_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 107px;
+	}
+	
+#products .feature_nav .thumbs #feature7nav .navImage {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature7_nav.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 153px;
+}
+	#products .feature_nav .thumbs #feature7nav .hover {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature7_nav_h.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 153px;
+	}
+	#products .feature_nav .thumbs #feature7nav .navImageOn {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature7_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 153px;
+	}	
+	
+/* begin feature CTA */
+#products .feature_image .cta {
+	float: left;
+	height: 280px;
+	left: 64px;
+	position: relative;
+	text-align: left;
+	top: 44px;
+	width: 440px;
+}
+
+#products .cta .title {
+	margin-bottom: 5px;
+}
+
+#products .cta .subtitle {
+	font-size: 16px;
+	margin-bottom: 15px;
+	margin-top:15px;
+}
+
+#products .cta .copy {
+	font-size: 14px;
+	margin-bottom: 15px;
+}
+	
+#products .cta ul {
+	list-style-type: none !important;
+	text-align: left;
+	color: #333;
+	padding: 0;
+	margin: 0px;
+	margin-bottom: 15px;
+	margin-left: 40px;
+	margin-top: 0px;	
+}
+
+#products .cta ul li {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/icon_orange_circle_feature.gif);
+	background-repeat: no-repeat;
+	font: 14px Arial, Helvetica, sans-serif !important;
+}
+
+#products .cta p {
+	color: #333;
+	font: 14px Arial, Helvetica, sans-serif;
+}
+
+#products .cta p a {
+	font: 14px Arial, Helvetica, sans-serif !important;
+}
+	#products .cta p a:hover {
+		font: 14px Arial, Helvetica, sans-serif !important;
+                                text-decoration:underline;
+	}
+	#products .cta p a:visited {
+		font: 14px Arial, Helvetica, sans-serif !important;
+	}
+
+#products .cta ul li {
+	background-position: 0 .5em;
+	padding-left: 1em;
+	margin-bottom: 5px;
+}
+
+#products .cta ul li a {
+	color: #1778BE;
+	font: 14px Arial, Helvetica, sans-serif !important;
+	text-decoration: none;
+}
+
+	#products .cta ul li a:hover {
+		color: #1778BE;
+		font: 14px Arial, Helvetica, sans-serif !important;
+		text-decoration: none;
+	}
+	#products .cta ul li a:visited {
+		color: #1778BE;
+		font: 14px Arial, Helvetica, sans-serif !important;
+		text-decoration: none;
+	}
+
+#learning .feature_image #perspective1 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/learning_feature1_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#learning .feature_image #perspective2 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/learning_feature2_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#learning .feature_image #perspective3 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/learning_feature3_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#learning .feature_image #perspective4 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/learning_feature4_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#learning .feature_nav {
+	position: relative; top: -7px; width: 960px;
+}
+#learning .feature_nav img {
+	float: left; text-align: left !important;
+}
+#learning .feature_nav ul {
+	list-style: none; margin: 0; padding: 0; text-align: left;
+}
+	#learning .feature_nav ul li { display: block; float: left; list-style-type: none; }
+
+#learning .feature_nav .thumbs #feature1nav .navImage {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/learning_feature1_nav.png); background-repeat: no-repeat; cursor: hand; height: 49px; width: 283px;
+}
+	#learning .feature_nav .thumbs #feature1nav .hover {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/learning_feature1_nav_h.png); background-repeat: no-repeat; cursor: hand; height: 49px; width: 283px;
+	}
+	#learning .feature_nav .thumbs #feature1nav .navImageOn {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/learning_feature1_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 49px; width: 283px;
+	}
+
+#learning .feature_nav .thumbs #feature2nav .navImage {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/learning_feature2_nav.png); background-repeat: no-repeat; cursor: hand; height: 49px; width: 281px;
+}
+	#learning .feature_nav .thumbs #feature2nav .hover {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/learning_feature2_nav_h.png); background-repeat: no-repeat; cursor: hand; height: 49px; width: 281px;
+	}
+	#learning .feature_nav .thumbs #feature2nav .navImageOn {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/learning_feature2_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 49px; width: 281px;
+	}
+
+#learning .feature_nav .thumbs #feature3nav .navImage {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/learning_feature3_nav.png); background-repeat: no-repeat; cursor: hand; height: 49px; width: 212px;
+}
+	#learning .feature_nav .thumbs #feature3nav .hover {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/learning_feature3_nav_h.png); background-repeat: no-repeat; cursor: hand; height: 49px; width: 212px;
+	}
+	#learning .feature_nav .thumbs #feature3nav .navImageOn {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/learning_feature3_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 49px; width: 212px;
+	}
+
+#learning .feature_nav .thumbs #feature4nav .navImage {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/learning_feature4_nav.png); background-repeat: no-repeat; cursor: hand; height: 49px; width: 184px;
+}
+	#learning .feature_nav .thumbs #feature4nav .hover {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/learning_feature4_nav_h.png); background-repeat: no-repeat; cursor: hand; height: 49px; width: 184px;
+	}
+	#learning .feature_nav .thumbs #feature4nav .navImageOn {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/learning_feature4_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 49px; width: 184px;
+	}
+	
+/* begin feature CTA */
+#learning .feature_image .cta {
+	float: left;
+	height: 280px;
+	left: 64px;
+	position: relative;
+	text-align: left;
+	top: 44px;
+	width: 440px;
+}
+
+#learning .cta .title {
+	margin-bottom: 14px;
+}
+
+#learning .cta .subtitle {
+	font-size: 16px;
+	margin-bottom: 15px;
+	margin-top:15px;
+}
+
+#learning .cta .copy {
+	font-size: 14px;
+	margin-bottom: 15px;
+}
+	
+#learning .cta ul {
+	list-style-type: none !important;
+	text-align: left;
+	color: #333;
+	padding: 0;
+	margin: 0px;
+	margin-bottom: 15px;
+	margin-left: 40px;
+	margin-top: 0px;	
+}
+
+#learning .cta ul li {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/icon_orange_circle_feature.gif);
+	background-repeat: no-repeat;
+	font: 14px Arial, Helvetica, sans-serif !important;
+}
+
+#learning .cta p {
+	color: #333;
+	font: 14px Arial, Helvetica, sans-serif;
+}
+
+#learning .cta p a {
+	font: 14px Arial, Helvetica, sans-serif !important;
+}
+	#learning .cta p a:hover {
+		font: 14px Arial, Helvetica, sans-serif !important;
+                                text-decoration:underline;
+	}
+	#learning .cta p a:visited {
+		font: 14px Arial, Helvetica, sans-serif !important;
+	}
+
+#learning .cta ul li {
+	background-position: 0 .5em;
+	padding-left: 1em;
+	margin-bottom: 5px;
+}
+
+#learning .cta ul li a {
+	color: #1778BE;
+	font: 14px Arial, Helvetica, sans-serif !important;
+	text-decoration: none;
+}
+
+	#learning .cta ul li a:hover {
+		color: #1778BE;
+		font: 14px Arial, Helvetica, sans-serif !important;
+		text-decoration:underline;
+	}
+	#learning .cta ul li a:visited {
+		color: #1778BE;
+		font: 14px Arial, Helvetica, sans-serif !important;
+		text-decoration: none;
+	}
+
+/* Start Main Page Feature */
+#gettingStarted .select_industry {
+	margin: 0px;
+	padding: 0px;
+}
+	#gettingStartedFeature #perspective1 {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/gettingstarted_feature1_background.jpg);
+		background-repeat: no-repeat;
+		height: 308px;
+		width: 960px;
+	}
+	#gettingStartedFeature #perspective2 {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/gettingstarted_feature2_background.jpg);
+		background-repeat: no-repeat;
+		height: 308px;
+		width: 960px;
+	}
+	#gettingStartedFeature #perspective3 {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/gettingstarted_feature3_background.jpg);
+		background-repeat: no-repeat;
+		height: 308px;
+		width: 960px;
+	}
+	#gettingStartedFeature #perspective4 {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/gettingstarted_feature4_background.jpg);
+		background-repeat: no-repeat;
+		height: 308px;
+		width: 960px;
+	}
+	#gettingStartedFeature #perspective5 {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/gettingstarted_feature5_background.jpg);
+		background-repeat: no-repeat;
+		height: 308px;
+		width: 960px;
+	}
+	#gettingStartedFeature #perspective6 {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/gettingstarted_feature6_background.jpg);
+		background-repeat: no-repeat;
+		height: 308px;
+		width: 960px;
+	}
+	#gettingStartedFeature #perspective7 {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/gettingstarted_feature7_background.jpg);
+		background-repeat: no-repeat;
+		height: 308px;
+		width: 960px;
+	}
+	#gettingStartedFeature #perspective8 {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/gettingstarted_feature8_background.jpg);
+		background-repeat: no-repeat;
+		height: 308px;
+		width: 960px;
+	}
+	
+	/* begin feature CTA */
+	#gettingStartedFeature .cta {
+		float: left;
+		height: 280px;
+		left: 64px;
+		position: relative;
+		text-align: left;
+		top: 44px;
+		width: 440px;
+	}
+
+	#gettingStartedFeature .cta .subtitle {
+		font-size: 16px;
+	}
+	
+	#gettingStartedFeature .cta ul {
+		list-style-type: none !important;
+		text-align: left;
+		color: #333;
+		padding: 0;
+		margin: 0px;
+		margin-bottom: 15px;
+		margin-left: 40px;
+		margin-top: 15px;	
+	}
+
+	#gettingStartedFeature .cta ul li {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/icon_orange_circle_feature.gif);
+		background-repeat: no-repeat;
+		background-position: 0 .5em;
+		padding-left: 1em;
+		margin-bottom: 5px;
+	}
+	
+	#gettingStartedFeature .cta p {
+		color: #333;
+		font: 12px Arial, Helvetica, sans-serif;
+	}
+	
+	#gettingStartedFeature .cta p a {
+		font: 12px Arial, Helvetica, sans-serif !important;
+	}
+	
+		#gettingStartedFeature .cta p a:hover {
+			font: 12px Arial, Helvetica, sans-serif !important;
+                                                text-decoration:underline;
+
+		}
+		
+		#gettingStartedFeature .cta p a:visited {
+			font: 12px Arial, Helvetica, sans-serif !important;
+		}
+	
+	#gettingStartedFeature .cta ul li a {
+		color: #1778BE;
+		font: 16px Arial, Helvetica, sans-serif !important;
+		text-decoration: none;
+	}
+	
+		#gettingstartedFeature .cta ul li a:hover {
+			color: #1778BE;
+			font: 16px Arial, Helvetica, sans-serif !important;
+			text-decoration:underline;
+		}
+		
+		#gettingstartedFeature .cta ul li a:visited {
+			color: #1778BE;
+			font: 16px Arial, Helvetica, sans-serif !important;
+			text-decoration: none;
+		}
+	
+	#gettingStartedFeature #perspective2 .cta #left { float: left; width: 230px; }
+	#gettingStartedFeature #perspective2 .cta #right { float: right; width: 205px; }
+	#gettingStartedFeature #perspective3 .cta #left { float: left; width: 215px; }
+	#gettingStartedFeature #perspective3 .cta #right { float: right; width: 205px; }
+	/* end feature CTA */
+	
+	.featureNav {
+		list-style-type: none !important;
+		list-style-image: none !important;
+		text-align: left !important;
+		padding: 0px 0px 0px 0px !important;
+		margin: 0px 0px 0px 0px !important;
+		display: block !important;
+		position: relative;
+		top: -7px;
+		width: 960px;
+		z-index: 500;
+	}
+		
+	#gettingStartedFeature .cta .title {
+		margin-bottom: 14px;
+		padding: 0px;
+	}
+	#gettingStarted #gettingStartedNav img {
+		float: left;
+		text-align: left !important;
+	}
+	#gettingStartedFeature ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		text-align: left;
+	}
+	.featureNav li {
+		display: block;
+		float: left;
+		list-style-type: none;
+	}
+	.featureNav li a {
+		cursor: pointer;
+	}
+	
+	#gettingStartedNav #feature0nav {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/gettingstarted_feature1_nav.png);
+		background-repeat: no-repeat;
+		cursor: pointer;
+		height: 99px;
+		width: 232px;
+	}
+		#gettingStartedNav #feature0nav .activeSlide .navImage {
+			background-image: url(https://commercesolutions.jpmorganchase.com/images/gettingstarted_feature1_nav_on.png);
+			background-repeat: no-repeat;
+			height: 99px;
+			width: 232px;
+		}
+	#gettingStartedNav #feature1nav  {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/gettingstarted_feature2_nav.png);
+		background-repeat: no-repeat;
+		cursor: pointer;
+		height: 99px;
+		width: 104px;
+	}
+		#gettingStartedNav #feature1nav .activeSlide .navImage {
+			background-image: url(https://commercesolutions.jpmorganchase.com/images/gettingstarted_feature2_nav_on.png);
+			background-repeat: no-repeat;
+			cursor: pointer;
+			height: 99px;
+			width: 104px;
+		}
+	#gettingStartedNav #feature2nav {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/gettingstarted_feature3_nav.png);
+		background-repeat: no-repeat;
+		cursor: pointer;
+		height: 99px;
+		width: 104px;
+	}
+		#gettingStartedNav #feature2nav .activeSlide .navImage {
+			background-image: url(https://commercesolutions.jpmorganchase.com/images/gettingstarted_feature3_nav_on.png);
+			background-repeat: no-repeat;
+			cursor: pointer;
+			height: 99px;
+			width: 104px;
+		}
+	#gettingStartedNav #feature3nav {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/gettingstarted_feature4_nav.png);
+		background-repeat: no-repeat;
+		cursor: pointer;
+		height: 99px;
+		width: 104px;
+	}
+		#gettingStartedNav #feature3nav .activeSlide .navImage {
+			background-image: url(https://commercesolutions.jpmorganchase.com/images/gettingstarted_feature4_nav_on.png);
+			background-repeat: no-repeat;
+			cursor: pointer;
+			height: 99px;
+			width: 104px;
+		}
+	#gettingStartedNav #feature4nav {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/gettingstarted_feature5_nav.png);
+		background-repeat: no-repeat;
+		cursor: pointer;
+		height: 99px;
+		width: 104px;
+	}
+		#gettingStartedNav #feature4nav .activeSlide .navImage {
+			background-image: url(https://commercesolutions.jpmorganchase.com/images/gettingstarted_feature5_nav_on.png);
+			background-repeat: no-repeat;
+			cursor: pointer;
+			height: 99px;
+			width: 104px;
+		}
+	#gettingStartedNav #feature5nav {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/gettingstarted_feature6_nav.png);
+		background-repeat: no-repeat;
+		cursor: pointer;
+		height: 99px;
+		width: 104px;
+	}
+		#gettingStartedNav #feature5nav .activeSlide .navImage {
+			background-image: url(https://commercesolutions.jpmorganchase.com/images/gettingstarted_feature6_nav_on.png);
+			background-repeat: no-repeat;
+			cursor: pointer;
+			height: 99px;
+			width: 104px;
+		}
+	#gettingStartedNav #feature6nav {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/gettingstarted_feature7_nav.png);
+		background-repeat: no-repeat;
+		cursor: pointer;
+		height: 99px;
+		width: 104px;
+	}
+		#gettingStartedNav #feature6nav .activeSlide .navImage {
+			background-image: url(https://commercesolutions.jpmorganchase.com/images/gettingstarted_feature7_nav_on.png);
+			background-repeat: no-repeat;
+			cursor: pointer;
+			height: 99px;
+			width: 104px;
+		}
+	#gettingStartedNav #feature7nav {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/gettingstarted_feature8_nav.png);
+		background-repeat: no-repeat;
+		cursor: pointer;
+		height: 99px;
+		width: 104px;
+	}
+		#gettingStartedNav #feature7nav .activeSlide .navImage {
+			background-image: url(https://commercesolutions.jpmorganchase.com/images/gettingstarted_feature8_nav_on.png);
+			background-repeat: no-repeat;
+			cursor: pointer;
+			height: 99px;
+			width: 104px;
+		}
+
+
+#learningResourcesFeature #perspective1 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/merchantsupport_feature1_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#learningResourcesFeature #perspective2 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/merchantsupport_feature2_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#learningResourcesFeature #perspective3 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/merchantsupport_feature3_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#learningResourcesFeature #perspective4 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/merchantsupport_feature4_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#learningResourcesFeature #perspective5 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/merchantsupport_feature5_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#learningResourcesFeature #perspective6 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/merchantsupport_feature6_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#learningResourcesFeature #perspective7 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/merchantsupport_feature7_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#learningResourcesNav .featureNav {
+	position: relative; top: -7px;
+	width: 960px;
+	z-index: 500;
+}
+#learningResourcesNav .featureNav img {
+	float: left; text-align: left !important;
+}
+#learningResourcesNav .featureNav ul {
+	list-style: none; margin: 0; padding: 0; text-align: left;
+}
+#learningResourcesNav .featureNav ul li { display: block; float: left; list-style-type: none; }
+
+#learningResourcesNav #feature0nav {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/learning_feature1_nav.png); background-repeat: no-repeat; cursor: hand; height: 49px; width: 283px;
+}
+	#learningResourcesNav #feature0nav .activeSlide .navImage {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/learning_feature1_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 49px; width: 283px;
+	}
+
+#learningResourcesNav #feature1nav {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/learning_feature2_nav.png); background-repeat: no-repeat; cursor: hand; height: 49px; width: 281px;
+}
+	#learningResourcesNav #feature1nav .activeSlide .navImage {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/learning_feature2_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 49px; width: 281px;
+	}
+
+#learningResourcesNav #feature2nav {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/learning_feature3_nav.png); background-repeat: no-repeat; cursor: hand; height: 49px; width: 212px;
+}
+	#learningResourcesNav #feature2nav .activeSlide .navImage {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/learning_feature3_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 49px; width: 212px;
+	}
+
+#learningResourcesNav #feature3nav {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/learning_feature4_nav.png); background-repeat: no-repeat; cursor: hand; height: 49px; width: 184px;
+}
+	#learningResourcesNav #feature3nav .activeSlide .navImage {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/learning_feature4_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 49px; width: 184px;
+	}
+
+	
+#learningResourcesFeature .cta {
+	float: left;
+	height: 280px;
+	left: 64px;
+	position: relative;
+	text-align: left;
+	top: 44px;
+	width: 440px;
+}
+
+#learningResourcesFeature .cta .title { margin-bottom: 5px; }
+
+#learningResourcesFeature .cta .subtitle {
+	font-size: 16px;
+	margin-bottom: 15px;
+	margin-top:15px;
+}
+
+#learningResourcesFeature .cta .copy {
+	font-size: 14px;
+	margin-bottom: 15px;
+}
+	
+#learningResourcesFeature .cta ul {
+	list-style-type: none !important;
+	text-align: left;
+	color: #333;
+	padding: 0;
+	margin: 0px;
+	margin-bottom: 15px;
+	margin-left: 40px;
+	margin-top: 0px;	
+}
+
+#learningResourcesFeature .cta ul li {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/icon_orange_circle_feature.gif);
+	background-repeat: no-repeat;
+	font: 14px Arial, Helvetica, sans-serif !important;
+}
+
+#learningResourcesFeature .cta p {
+	color: #333;
+	font: 14px Arial, Helvetica, sans-serif;
+}
+
+#learningResourcesFeature .cta p a {
+	font: 14px Arial, Helvetica, sans-serif !important;
+}
+	#learningResourcesFeature .cta p a:hover {
+		font: 14px Arial, Helvetica, sans-serif !important;
+                                text-decoration:underline;
+	}
+	#learningResourcesFeature .cta p a:visited {
+		font: 14px Arial, Helvetica, sans-serif !important;
+	}
+
+#learningResourcesFeature .cta ul li {
+	background-position: 0 .5em;
+	padding-left: 1em;
+	margin-bottom: 5px;
+}
+
+#learningResourcesFeature .cta ul li a {
+	color: #1778BE;
+	font: 14px Arial, Helvetica, sans-serif !important;
+	text-decoration: none;
+}
+
+	#learningResourcesFeature .cta ul li a:hover {
+		color: #1778BE;
+		font: 14px Arial, Helvetica, sans-serif !important;
+		text-decoration:underline;
+	}
+	#learningResourcesFeature .cta ul li a:visited {
+		color: #1778BE;
+		font: 14px Arial, Helvetica, sans-serif !important;
+		text-decoration: none;
+	}
+
+
+
+#productsServicesFeature #perspective2 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature2_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#productsServicesFeature #perspective3 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature3_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#productsServicesFeature #perspective4 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature4_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#productsServicesFeature #perspective5 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature5_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#productsServicesFeature #perspective6 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature6_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#productsServicesFeature #perspective7 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature7_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#productsServicesNav .featureNav {
+	position: relative; top: -7px;
+	width: 960px;
+	z-index: 500;
+}
+#productsServicesNav .featureNav img {
+	float: left; text-align: left !important;
+}
+#productsServicesNav .featureNav ul {
+	list-style: none; margin: 0; padding: 0; text-align: left;
+}
+#productsServicesNav .featureNav ul li { display: block; float: left; list-style-type: none; }
+
+#productsServicesNav #feature0nav {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature1_nav.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 143px;
+}
+	#productsServicesNav #feature0nav .activeSlide .navImage {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature1_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 143px;
+	}
+
+#productsServicesNav #feature1nav {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature2_nav.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 151px;
+}
+	#productsServicesNav #feature1nav .activeSlide .navImage {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature2_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 151px;
+	}
+
+#productsServicesNav #feature2nav {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature3_nav.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 149px;
+}
+	#productsServicesNav #feature2nav .activeSlide .navImage {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature3_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 149px;
+	}
+
+#productsServicesNav #feature3nav {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature4_nav.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 105px;
+}
+	#productsServicesNav #feature3nav .activeSlide .navImage {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature4_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 105px;
+	}
+
+#productsServicesNav #feature4nav {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature5_nav.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 152px;
+}
+	#productsServicesNav #feature4nav .activeSlide .navImage {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature5_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 152px;
+	}
+
+#productsServicesNav #feature5nav {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature6_nav.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 107px;
+}
+	#productsServicesNav #feature5nav .activeSlide .navImage {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature6_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 107px;
+	}
+	
+#productsServicesNav #feature6nav {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature7_nav.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 153px;
+}
+	#productsServicesNav #feature6nav .activeSlide .navImage {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/products_feature7_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 72px; width: 153px;
+	}	
+	
+#productsServicesFeature .cta {
+	float: left;
+	height: 280px;
+	left: 64px;
+	position: relative;
+	text-align: left;
+	top: 44px;
+	width: 440px;
+}
+
+#productsServicesFeature .cta h2.title {
+	color:#024374;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:30px;
+	font-weight:normal;
+	margin-bottom: 5px;
+	margin-top:0px;
+	}
+
+#productsServicesFeature .cta .subtitle {
+	font-size: 16px;
+	margin-bottom: 15px;
+	margin-top:15px;
+}
+
+#productsServicesFeature .cta .copy {
+	font-size: 14px;
+	margin-bottom: 15px;
+}
+	
+#productsServicesFeature .cta ul {
+	list-style-type: none !important;
+	text-align: left;
+	color: #333;
+	padding: 0;
+	margin: 0px;
+	margin-bottom: 15px;
+	margin-left: 40px;
+	margin-top: 0px;	
+}
+
+#productsServicesFeature .cta ul li {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/icon_orange_circle_feature.gif);
+	background-repeat: no-repeat;
+	font: 14px Arial, Helvetica, sans-serif !important;
+}
+
+#productsServicesFeature .cta p {
+	color: #333;
+	font: 14px Arial, Helvetica, sans-serif;
+}
+
+#productsServicesFeature .cta p a {
+	font: 14px Arial, Helvetica, sans-serif !important;
+}
+	#products .cta p a:hover {
+		font: 14px Arial, Helvetica, sans-serif !important;
+                                text-decoration:underline;
+	}
+	#products .cta p a:visited {
+		font: 14px Arial, Helvetica, sans-serif !important;
+	}
+
+#productsServicesFeature .cta ul li {
+	background-position: 0 .5em;
+	padding-left: 1em;
+	margin-bottom: 5px;
+}
+
+#productsServicesFeature .cta ul li a {
+	color: #1778BE;
+	font: 14px Arial, Helvetica, sans-serif !important;
+	text-decoration: none;
+}
+
+	#productsServicesFeature .cta ul li a:hover {
+		color: #1778BE;
+		font: 14px Arial, Helvetica, sans-serif !important;
+		text-decoration:underline;
+	}
+	#productsServicesFeature .cta ul li a:visited {
+		color: #1778BE;
+		font: 14px Arial, Helvetica, sans-serif !important;
+		text-decoration: none;
+	}
+	
+#merchantSupportFeature #perspective1 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/merchantsupport_feature1_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#merchantSupportFeature #perspective2 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/merchantsupport_feature2_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#merchantSupportFeature #perspective3 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/merchantsupport_feature3_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#merchantSupportFeature #perspective4 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/merchantsupport_feature4_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#merchantSupportFeature #perspective5 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/merchantsupport_feature5_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#merchantSupportFeature #perspective6 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/merchantsupport_feature6_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#merchantSupportFeature #perspective7 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/merchantsupport_feature7_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#merchantSupportNav .featureNav {
+	position: relative; top: -7px;
+	width: 960px;
+	z-index: 500;
+}
+#merchantSupportNav .featureNav img {
+	float: left; text-align: left !important;
+}
+#merchantSupportNav .featureNav ul {
+	list-style: none; margin: 0; padding: 0; text-align: left;
+}
+#merchantSupportNav .featureNav ul li { display: block; float: left; list-style-type: none; }
+
+#merchantSupportNav #feature0nav {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/merchantsupport_feature1_nav.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 240px;
+}
+	#merchantSupportNav #feature0nav .activeSlide .navImage {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/merchantsupport_feature1_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 240px;
+	}
+
+#merchantSupportNav #feature1nav {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/merchantsupport_feature2_nav.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 240px;
+}
+	#merchantSupportNav #feature1nav .activeSlide .navImage {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/merchantsupport_feature2_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 240px;
+	}
+
+#merchantSupportNav #feature2nav {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/merchantsupport_feature3_nav.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 240px;
+}
+	#merchantSupportNav #feature2nav .activeSlide .navImage {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/merchantsupport_feature3_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 240px;
+	}
+
+#merchantSupportNav #feature3nav {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/merchantsupport_feature4_nav.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 240px;
+}
+	#merchantSupportNav #feature3nav .activeSlide .navImage {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/merchantsupport_feature4_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 240px;
+	}
+
+	
+#merchantSupportFeature .cta {
+	float: left;
+	height: 280px;
+	left: 64px;
+	position: relative;
+	text-align: left;
+	top: 17px;
+	width: 440px;
+}
+
+#merchantSupportFeature .cta .title {
+	margin-bottom: 2px;
+	color:#024374;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:32px;
+	font-weight:normal;
+		}
+
+#merchantSupportFeature .cta .subtitle {
+	font-size: 16px;
+	margin-bottom: 15px;
+	margin-top:5px;
+}
+
+#merchantSupportFeature .cta .copy {
+	font-size: 14px;
+	margin-bottom: 15px;
+}
+	
+#merchantSupportFeature .cta ul {
+	list-style-type: none !important;
+	text-align: left;
+	color: #333;
+	padding: 0;
+	margin: 0px;
+	margin-bottom: 15px;
+	margin-left: 40px;
+	margin-top: 0px;	
+}
+
+#merchantSupportFeature .cta ul li {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/icon_orange_circle_feature.gif);
+	background-repeat: no-repeat;
+	font: 14px Arial, Helvetica, sans-serif !important;
+}
+#merchantSupportFeature .cta ul.green li {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/icon_green_circle_feature.png);
+	background-repeat: no-repeat;
+	font: 14px Arial, Helvetica, sans-serif !important;
+}
+
+#merchantSupportFeature .cta p {
+	color: #333;
+	font: 14px Arial, Helvetica, sans-serif;
+}
+
+#merchantSupportFeature .cta p a {
+	font: 14px Arial, Helvetica, sans-serif !important;
+}
+	#merchantSupportFeature .cta p a:hover {
+		font: 14px Arial, Helvetica, sans-serif !important;
+                                text-decoration:underline;
+
+	}
+	#merchantSupportFeature .cta p a:visited {
+		font: 14px Arial, Helvetica, sans-serif !important;
+	}
+
+#merchantSupportFeature .cta ul li {
+	background-position: 0 .5em;
+	padding-left: 1em;
+	margin-bottom: 5px;
+}
+
+#merchantSupportFeature .cta ul li a {
+	color: #1778BE;
+	font: 14px Arial, Helvetica, sans-serif !important;
+	text-decoration: none;
+}
+
+	#merchantSupportFeature .cta ul li a:hover {
+		color: #1778BE;
+		font: 14px Arial, Helvetica, sans-serif !important;
+		text-decoration: underline;
+	}
+	#merchantSupportFeature .cta ul li a:visited {
+		color: #1778BE;
+		font: 14px Arial, Helvetica, sans-serif !important;
+		text-decoration: none;
+	}
+	
+	
+#partnershipFeature #perspective1 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature1_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#partnershipFeature #perspective2 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature2_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#partnershipFeature #perspective3 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature3_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#partnershipFeature #perspective4 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature4_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#partnershipFeature #perspective5 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature5_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#partnershipFeature #perspective6 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature6_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#partnershipFeature #perspective7 {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature7_background.jpg); background-repeat: no-repeat; height: 307px; width: 960px;
+}
+#partnershipNav .featureNav { position: relative; top: -7px; width: 960px; z-index: 500; }
+#partnershipNav .featureNav img { float: left; text-align: left !important; }
+#partnershipNav .featureNav ul { list-style: none; margin: 0; padding: 0; text-align: left; }
+#partnershipNav .featureNav ul li { display: block; float: left; list-style-type: none; }
+
+#partnershipNav #feature0nav {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature1_nav.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 161px;
+}
+	#partnershipNav #feature0nav .activeSlide .navImage {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature1_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 161px;
+	}
+
+#partnershipNav #feature1nav {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature2_nav.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 239px;
+}
+	#partnershipNav #feature1nav .activeSlide .navImage {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature2_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 239px;
+	}
+
+#partnershipNav #feature2nav {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature3_nav.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 250px;
+}
+	#partnershipNav #feature2nav .activeSlide .navImage {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature3_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 250px;
+	}
+
+#partnershipNav #feature3nav {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature4_nav.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 310px;
+}
+	#partnershipNav #feature3nav .activeSlide .navImage {
+		background-image: url(https://commercesolutions.jpmorganchase.com/images/partnership_feature4_nav_on.png); background-repeat: no-repeat; cursor: hand; height: 50px; width: 310px;
+	}
+
+#partnershipFeature .cta {
+	float: left;
+	height: 280px;
+	left: 64px;
+	position: relative;
+	text-align: left;
+	top: 44px;
+	width: 440px;
+}
+
+#partnershipFeature .cta .title { margin-bottom: 5px; }
+
+#partnershipFeature .cta .subtitle {
+	font-size: 16px;
+	margin-bottom: 15px;
+	margin-top:15px;
+}
+
+#partnershipFeature .cta .copy {
+	font-size: 14px;
+	margin-bottom: 15px;
+}
+	
+#partnershipFeature .cta ul {
+	list-style-type: none !important;
+	text-align: left;
+	color: #333;
+	padding: 0;
+	margin: 0px;
+	margin-bottom: 15px;
+	margin-left: 40px;
+	margin-top: 0px;	
+}
+
+#partnershipFeature .cta ul li {
+	background-image: url(https://commercesolutions.jpmorganchase.com/images/icon_orange_circle_feature.gif);
+	background-repeat: no-repeat;
+	font: 14px Arial, Helvetica, sans-serif !important;
+}
+
+#partnershipFeature .cta p {
+	color: #333;
+	font: 14px Arial, Helvetica, sans-serif;
+
+
+}
+
+#partnershipFeature .cta p a {
+	font: 14px Arial, Helvetica, sans-serif !important;
+}
+	#partnershipFeature .cta p a:hover {
+		font: 14px Arial, Helvetica, sans-serif !important;
+                                text-decoration:underline;
+	}
+	#partnershipFeature .cta p a:visited {
+		font: 14px Arial, Helvetica, sans-serif !important;
+	}
+
+#partnershipFeature .cta ul li {
+	background-position: 0 .5em;
+	padding-left: 1em;
+	margin-bottom: 5px;
+}
+
+#partnershipFeature .cta ul li a {
+	color: #1778BE;
+	font: 14px Arial, Helvetica, sans-serif !important;
+	text-decoration: none;
+}
+
+	#partnershipFeature .cta ul li a:hover {
+		color: #1778BE;
+		font: 14px Arial, Helvetica, sans-serif !important;
+		text-decoration:underline;
+	}
+	#partnershipFeature .cta ul li a:visited {
+		color: #1778BE;
+		font: 14px Arial, Helvetica, sans-serif !important;
+		text-decoration: none;
+	}
+
